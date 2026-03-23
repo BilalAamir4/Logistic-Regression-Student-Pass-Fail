@@ -1,0 +1,15 @@
+# Virtual environment
+.venv/
+
+# PyCharm settings
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Results (generated images, can be recreated)
+results/
+
+# Trained model files
+*.pkl
